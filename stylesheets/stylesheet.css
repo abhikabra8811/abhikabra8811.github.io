@@ -505,7 +505,7 @@ header h2 {
 }
 
 #content-wrapper {
-  padding-top: 30px;
+  padding-top: 15px;
   border-top: solid 1px #fff;
 }
 
@@ -602,8 +602,8 @@ ul, ol, dl {
 
 hr {
   height: 0;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 5px;
+  margin-bottom: 5px;
   border: 0;
   border-top: solid 1px #ddd;
 }
@@ -633,10 +633,10 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.8em;
+  font-size: 25px;
   font-weight: normal;
   color: #474747;
   text-indent: 6px;
@@ -651,7 +651,8 @@ form {
 }
 
 #main-content h2 {
-  margin-bottom: 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
@@ -666,8 +667,8 @@ form {
 }
 
 #main-content h3 {
-  margin-top: 24px;
-  margin-bottom: 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
@@ -727,7 +728,7 @@ h6:before {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 a {
